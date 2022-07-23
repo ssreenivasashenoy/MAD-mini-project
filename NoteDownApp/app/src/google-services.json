@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701805299205",
+    "project_id": "notedownapp-bb5d7",
+    "storage_bucket": "notedownapp-bb5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701805299205:android:fe60e6896d020162f63e6c",
+        "android_client_info": {
+          "package_name": "com.example.notedownapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701805299205-gucq5kmqkvdt2mv36lsvgmuts0h75mlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmwBr82whATZ3C1o056vXeNmdnSto4XrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701805299205-gucq5kmqkvdt2mv36lsvgmuts0h75mlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
